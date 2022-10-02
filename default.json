@@ -7,6 +7,7 @@
     ":semanticCommitTypeAll(build)",
     ":maintainLockFilesWeekly"
   ],
+  "schedule": "0 12 */2 * *",
   "rangeStrategy": "bump",
   "npm": {
     "commitMessageTopic": "{{prettyDepType}} {{depName}}"
