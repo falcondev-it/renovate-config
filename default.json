@@ -15,5 +15,6 @@
   },
   "lockFileMaintenance": {
     "semanticCommitType": "build"
-  }
+  },
+  "prCreation": "status-success"
 }
