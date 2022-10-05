@@ -8,6 +8,7 @@
     ":maintainLockFilesWeekly"
   ],
   "schedule": "0 12 */2 * *",
+  "timezone": "Europe/Berlin",
   "rangeStrategy": "bump",
   "npm": {
     "commitMessageTopic": "{{prettyDepType}} {{depName}}"
