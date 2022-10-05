@@ -7,7 +7,7 @@
     ":semanticCommitTypeAll(build)",
     ":maintainLockFilesWeekly"
   ],
-  "schedule": "0 12 */2 * *",
+  "schedule": "on Mon, Wed and Fri at 5:00",
   "timezone": "Europe/Berlin",
   "rangeStrategy": "bump",
   "npm": {
