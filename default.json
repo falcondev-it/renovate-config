@@ -10,6 +10,7 @@
     ":enableVulnerabilityAlerts"
   ],
   "automergeType": "branch",
+  "automergeStrategy": "rebase",
   "ignoreTests": true,
   "schedule": "on Mon, Wed and Fri before 6:00",
   "timezone": "Europe/Berlin",
