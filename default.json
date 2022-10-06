@@ -5,7 +5,9 @@
     "config:base",
     "group:allNonMajor",
     ":semanticCommitTypeAll(build)",
-    ":maintainLockFilesWeekly"
+    ":maintainLockFilesWeekly",
+    ":automergePatch",
+    ":enableVulnerabilityAlerts"
   ],
   "schedule": "on Mon, Wed and Fri before 6:00",
   "timezone": "Europe/Berlin",
