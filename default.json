@@ -11,6 +11,7 @@
   ],
   "automergeType": "branch",
   "automergeStrategy": "rebase",
+  "automergeSchedule": "on Mon, Wed and Fri before 6:00",
   "ignoreTests": true,
   "schedule": "on Mon, Wed and Fri before 6:00",
   "timezone": "Europe/Berlin",
