@@ -9,6 +9,8 @@
     ":automergePatch",
     ":enableVulnerabilityAlerts"
   ],
+  "automergeType": "branch",
+  "ignoreTests": true,
   "schedule": "on Mon, Wed and Fri before 6:00",
   "timezone": "Europe/Berlin",
   "rangeStrategy": "bump",
