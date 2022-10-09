@@ -1,0 +1,9 @@
+{
+    "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+    "description": "Maintenance config for falconDev IT GmbH repositories",
+    "extends": [
+        "local>falcondev-it/renovate-config"
+    ],
+    "automerge": false,
+    "schedule": "every 4 weeks on Mon before 6:00"
+}
