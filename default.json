@@ -9,7 +9,6 @@
     ":enableVulnerabilityAlerts"
   ],
   "automergeType": "branch",
-  "stabilityDays": 3,
   "prCreation": "status-success",
   "automergeSchedule": "on Mon after 3:00 and before 6:00",
   "ignoreTests": true,
