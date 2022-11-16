@@ -10,11 +10,11 @@
   ],
   "automergeType": "branch",
   "prCreation": "status-success",
-  "automergeSchedule": "on Mon after 3:00 and before 6:00",
+  "automergeSchedule": "on Mon before 6:00",
   "ignoreTests": true,
   "updatePinnedDependencies": false,
   "updateNotScheduled": false,
-  "schedule": "on Mon, Wed and Fri before 3:00",
+  "schedule": "on Mon, Wed and Fri before 6:00",
   "timezone": "Europe/Berlin",
   "rangeStrategy": "bump",
   "npm": {
