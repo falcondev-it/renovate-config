@@ -4,7 +4,6 @@
   "extends": [
     "config:base",
     "group:allNonMajor",
-    ":semanticCommitTypeAll(build)",
     ":maintainLockFilesWeekly",
     ":enableVulnerabilityAlerts"
   ],
@@ -21,7 +20,6 @@
     "commitMessageTopic": "{{prettyDepType}} {{depName}}"
   },
   "lockFileMaintenance": {
-    "semanticCommitType": "build",
     "prPriority": 10
   }
 }
