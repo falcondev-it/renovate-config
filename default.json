@@ -1,6 +1,7 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "description": "Default config for falconDev IT GmbH repositories",
+  "enabled": false,
   "extends": [
     "config:base",
     "group:allNonMajor",
